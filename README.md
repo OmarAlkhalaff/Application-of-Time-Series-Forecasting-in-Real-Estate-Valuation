@@ -19,3 +19,7 @@ The project involves a real-world dataset, the work is categorized into three ma
   
  The columns we will be working with initially:
  ![Capture](https://user-images.githubusercontent.com/99807928/187084289-e47a62b1-7f0b-452c-ac65-e6fdb52d94e0.PNG)
+
+ The data is collected from the following sources:
+  - for Trades data: https://www.kaggle.com/datasets/nishiodens/japan-real-estate-transaction-prices
+  - for Housing Consumer Price index: https://fred.stlouisfed.org/series/JPNCPGRHO01IXOBQ
