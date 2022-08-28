@@ -6,7 +6,7 @@ The project involves a real-world dataset, the work is categorized into three ma
  - Notebook 2: Static Modeling for Producing Time Series
  - Notebook 2: Mean-Point Time Series Modeling
  
- We will be working with a dataset of tokyo trades published by Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT). The dataset is originally reported in japanese languge and was translated by a kaggle contributer. In addition to the trades data, we will be incorporating the housing consumer price index for japan. 
+ We will be working with a dataset of Tokyo real estate trades published by Ministry of Land, Infrastructure, Transport and Tourism of Japan (MLIT). The dataset is originally reported in japanese languge and was translated by a kaggle contributer. In addition to the trades data, we will be incorporating the housing consumer price index for japan. 
  
  After EDA & feature engineering we will proceed to with two different approaches to model the prices, the approaches in a nutshell: 
  
